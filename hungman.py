@@ -4,7 +4,6 @@ import random
 from hungame_word import word_list
 chosen_word = random.choice(word_list)
 lives = 6
-# testing code
 #print(f'pssst, the solution in {chosen_word}')
 word_len = len(chosen_word)
 display = []
